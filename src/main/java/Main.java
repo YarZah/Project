@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        int[] number = {20, 15, 40, 60, 80};
+        int[] number = {20, 75, 40, 100, 80};
         for (int i =0; i < number.length; i++) {
-            if (number[i] == 15) {
+            if (number[i] == 75) {
                 continue;
             }
-            if (number[i] == 60) {
+            if (number[i] == 100) {
                 continue;
             }
 
